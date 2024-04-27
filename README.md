@@ -10,11 +10,19 @@ ___
 - :bulb: Hoping to interact with and learn from more experienced programmers
 - :dart: Currently learning Python
 
+___
 Contact me at :
 - Telegram - https://t.me/mj_regicuinte
 - Email - regicuinte@gmail.com
 
 :warning: Availability hours: 00:00 - 16:00 (UTC)
+
+___
+Extra info:
+
+:star: LeetCode profile: https://leetcode.com/u/regicuinte
+
+:notes: Favorite music: Rock / Alternative / Metal , Retrowave / Synthwave
 
 <!--
 **denis-perevertov/denis-perevertov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
