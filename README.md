@@ -24,6 +24,12 @@ Extra info:
 
 :notes: Favorite music: Rock / Alternative / Metal , Retrowave / Synthwave
 
+Real Life Photo (Trust Me):
+
+![image](https://github.com/denis-perevertov/denis-perevertov/assets/115099010/98d77931-317d-4873-a636-6087272506c2)
+
+
+
 <!--
 **denis-perevertov/denis-perevertov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
